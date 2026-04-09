@@ -50,31 +50,31 @@ export default function LandingPage() {
       description="We build you a done-for-you signal monitoring machine — custom to your market, your targets, your voice. It runs every day without you touching it. You just take the calls."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=1",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=2",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=3",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=4",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=5",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=6",          imageAlt: "Hero"},
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=7",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=8",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=9",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=10",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=11",          imageAlt: "Hero"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "Hero"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=12",          imageAlt: "Hero"},
       ]}
       buttons={[
         {
@@ -126,7 +126,7 @@ export default function LandingPage() {
       features={[
         {
           title: "We learn your market",          description: "You tell us who you want to reach, what signals matter, and what your outreach should sound like.",          buttonIcon: Zap,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png",          imageAlt: "A clean, minimalist UI card representing a signal monitoring dashboard. Shows three rows with header"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=13",          imageAlt: "A clean, minimalist UI card representing a signal monitoring dashboard. Shows three rows with header"},
         {
           title: "We build your system",          description: "We connect your signal sources, configure your outreach sequences, and set everything up in 48 hours.",          buttonIcon: Settings,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/professional-headshot-of-business-man-mi-1775695471702-e0a61fb8.png",          imageAlt: ""},
@@ -150,17 +150,17 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "1",          name: "Signal monitor",          price: "Tracking",          variant: "Signals",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "1",          name: "Signal monitor",          price: "Tracking",          variant: "Signals",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=14"},
         {
-          id: "2",          name: "Daily digest",          price: "Reporting",          variant: "Morning",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "2",          name: "Daily digest",          price: "Reporting",          variant: "Morning",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=15"},
         {
-          id: "3",          name: "Personalized outreach",          price: "Automated",          variant: "Messaging",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "3",          name: "Personalized outreach",          price: "Automated",          variant: "Messaging",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=16"},
         {
-          id: "4",          name: "Full dashboard",          price: "Insight",          variant: "Notion",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "4",          name: "Full dashboard",          price: "Insight",          variant: "Notion",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=17"},
         {
-          id: "5",          name: "Scalability",          price: "Ready",          variant: "Systems",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "5",          name: "Scalability",          price: "Ready",          variant: "Systems",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=18"},
         {
-          id: "6",          name: "Support",          price: "Included",          variant: "Dedicated",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"},
+          id: "6",          name: "Support",          price: "Included",          variant: "Dedicated",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=19"},
       ]}
       title="What you get"
       description="Comprehensive tools built for scale."
@@ -181,7 +181,7 @@ export default function LandingPage() {
         {
           title: "Creator agencies",          description: "Pitch the right brands at the exact moment their budget opens up."},
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=20"
     />
   </div>
 
@@ -222,7 +222,7 @@ export default function LandingPage() {
       textarea={{
         name: "message",        placeholder: "Tell us about your market"}}
       buttonText="Get your system built"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C69ekZuuAf78S58EuGYfqjzjQM/a-clean-minimalist-ui-card-representing--1775695455575-872e3b4f.png?_wi=21"
     />
   </div>
 
